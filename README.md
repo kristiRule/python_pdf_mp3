@@ -21,3 +21,6 @@ The program uses the PyPDF2 library to extract text from the PDF file, and the p
 
 ## Test Case Setup
 To test the program, you can use the sample PDF file included in the repository (wellarchitected-framework.pdf). Simply follow the setup and usage instructions above, and the program should extract the text from the PDF file and save it as an MP3 file in the current directory.
+
+## Credits
+This program was largely inspired by TiffInTech and has been adapted to python modules and functions available in 2023.
